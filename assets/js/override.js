@@ -131,6 +131,7 @@
   }
 
   // PJAX 集成
+  let pjax;
   //// 初始化 PJAX
   function initPjax() {
     try {
@@ -144,6 +145,9 @@
           ".nav-chapters",
           "#search-wrapper",
           ".content",
+          "#mdbook-search-wrapper",
+          "nav",
+          "#git-edit-button",
           ".pjax-reload",
         ],
         cacheBust: false,
@@ -159,7 +163,7 @@
       .getElementById("mdbook-searchbar")
       .addEventListener("keyup", function (e) {
         // 按下回车键在新标签页用必应搜索，结果仅包含本站
-        if (e.key === 'Enter') {
+        if (e.key === "Enter") {
           window.open(
             "https://cn.bing.com/search?q=" +
               encodeURIComponent(this.value) +
