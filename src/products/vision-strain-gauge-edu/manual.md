@@ -168,7 +168,7 @@ style="width:3.51806in;height:0.35764in" alt="1718705453768" />
 style="width:3.04444in;height:0.35764in" alt="1718705636399" />
 
 安装完成后桌面上将生成 2 个快捷方式图标<img src="../../assets/products/vision-strain-gauge-edu/image7.png"
-style="width:0.62811in;height:0.38795in" />，一般只会用到Galaxy 
+style="width:0.62811in;height:0.38795in" />，一般只会用到 Galaxy 
 Viewer 软件<img src="../../assets/products/vision-strain-gauge-edu/image8.png"
 style="width:0.30694in;height:0.37778in" />。
 
@@ -196,7 +196,7 @@ style="width:0.39375in;height:0.39375in" />。
 
 ## 硬件安装
 
-1）确保电脑具备USB 
+1）确保电脑具备 USB
 3.0 接口，将视频引伸计的 USB 数据线连接到该接口，以保证数据传输的高速和稳定
 
 2）将视频引伸计光源电源适配器连接到光源的电源接口，再将适配器插头插入电源插座
