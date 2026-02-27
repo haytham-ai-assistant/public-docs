@@ -61,7 +61,7 @@ style="width:8.77361in;height:5.09583in" />
 
 <!-- -->
 
-1)  本系统在部分需使用电源配件时，应使用符合标准三相220 V 电压，且应有接地装置。使用不正确的工作电压可能导致故障或火灾的危险，请严格遵守使用规范。
+1)  本系统在部分需使用电源配件时，应使用符合标准三相 220 V 电压，且应有接地装置。使用不正确的工作电压可能导致故障或火灾的危险，请严格遵守使用规范。
 
 2)  使用设备前需检查设备是否完整，电缆是否破损或损坏，以防造成设备损坏或人员伤亡。
 
@@ -134,7 +134,7 @@ style="width:8.77361in;height:5.09583in" />
 
 ## 测量原理
 
-视觉应变仪教育版是一种光学非接触式变形应变测量设备，它通过一台相机捕捉试样表面的时序图像，利用数字图像相关技术(Digital
+视觉应变仪教育版是一种光学非接触式变形应变测量设备，它通过一台相机捕捉试样表面的时序图像，利用数字图像相关技术 (Digital
 Image
 Correlation，DIC) 分析变形前后图像中特征点的位移、应变变化，从而得到试样的位移变化值。视觉应变仪教育版测量系统主要构成见图 1，其中工业相机在光源和计算机的配合下完成对试样图像的采集，试样上布置的特征点作为视觉应变仪教育版需要匹配跟踪的特征。
 
@@ -159,7 +159,7 @@ style="width:5.76528in;height:2.78889in" />
 
     1.  ## 相机驱动安装
 
-将随箱U 盘插入待安装电脑主机上，打开U 盘-“相机驱动软件”文件夹，安装相机驱动软件。
+将随箱 U 盘插入待安装电脑主机上，打开 U 盘 - “相机驱动软件”文件夹，安装相机驱动软件。
 
 <img src="../../assets/products/vision-strain-gauge-edu/image5.png"
 style="width:3.51806in;height:0.35764in" alt="1718705453768" />
@@ -167,15 +167,15 @@ style="width:3.51806in;height:0.35764in" alt="1718705453768" />
 <img src="../../assets/products/vision-strain-gauge-edu/image6.png"
 style="width:3.04444in;height:0.35764in" alt="1718705636399" />
 
-安装完成后桌面上将生成2个快捷方式图标<img src="../../assets/products/vision-strain-gauge-edu/image7.png"
-style="width:0.62811in;height:0.38795in" />，一般只会用到Galaxy
-Viewer软件<img src="../../assets/products/vision-strain-gauge-edu/image8.png"
+安装完成后桌面上将生成 2 个快捷方式图标<img src="../../assets/products/vision-strain-gauge-edu/image7.png"
+style="width:0.62811in;height:0.38795in" />，一般只会用到Galaxy 
+Viewer 软件<img src="../../assets/products/vision-strain-gauge-edu/image8.png"
 style="width:0.30694in;height:0.37778in" />。
 
 ## 版软件安装
 
-将随箱U 盘插入到待安装的电脑主机端口上，拷贝U 盘根目录下的“视觉应变仪教育版软件”文件夹至电脑主机的D盘中双击“Visual
-Extensometer”文件夹-点击“setup”应用程序进行变形测量软件安装，双击“VisualStrainGauge”应用程序进行全场应变软件安装。
+将随箱 U 盘插入到待安装的电脑主机端口上，拷贝 U 盘根目录下的“视觉应变仪教育版软件”文件夹至电脑主机的 D 盘中双击“Visual
+Extensometer”文件夹 - 点击“setup”应用程序进行变形测量软件安装，双击“VisualStrainGauge”应用程序进行全场应变软件安装。
 
 <img src="../../assets/products/vision-strain-gauge-edu/image9.png"
 style="width:2.24137in;height:0.27824in" alt="1718705667385" />
@@ -196,8 +196,8 @@ style="width:0.39375in;height:0.39375in" />。
 
 ## 硬件安装
 
-1）确保电脑具备USB
-3.0接口，将视频引伸计的USB 数据线连接到该接口，以保证数据传输的高速和稳定
+1）确保电脑具备USB 
+3.0 接口，将视频引伸计的 USB 数据线连接到该接口，以保证数据传输的高速和稳定
 
 2）将视频引伸计光源电源适配器连接到光源的电源接口，再将适配器插头插入电源插座
 
@@ -224,11 +224,11 @@ alt="640738d316208538913cf77995ed6ae7" />
 
 1)  将试样做好标记置于试验位置，标记通过粘贴标准圆形标记点或者手绘明显标记点方式完成，先在待测试样表面布置标记点/特征点，布置完成后将试样
 
-2)  将设备按照标准物距架设，确保设备平行于试样表面，通过USB 数据线将设备连接到电脑USB 3.0 接口上
+2)  将设备按照标准物距架设，确保设备平行于试样表面，通过 USB 数据线将设备连接到电脑 USB 3.0 接口上
 
-3)  将加密狗插入到电脑主机USB接口中
+3)  将加密狗插入到电脑主机 USB 接口中
 
-4)  双击VisualExtensometer 软件桌面快捷方式图标<img src="../../assets/products/vision-strain-gauge-edu/image16.png"
+4)  双击 VisualExtensometer 软件桌面快捷方式图标<img src="../../assets/products/vision-strain-gauge-edu/image16.png"
     style="width:0.34722in;height:0.34722in" alt="1718706078045" />打开软件。打开软件界面如下：
 
 > <img src="../../assets/products/vision-strain-gauge-edu/image17.png"
@@ -284,7 +284,7 @@ alt="640738d316208538913cf77995ed6ae7" />
 
 ## 5.2 硬件安装
 
-通过固定块把视觉应变依和演示工装安装在演示工装调节好物距，按4.2操作连接光源及线缆
+通过固定块把视觉应变依和演示工装安装在演示工装调节好物距，按 4.2 操作连接光源及线缆
 
 <img src="../../assets/products/vision-strain-gauge-edu/image26.jpeg"
 style="width:4.675in;height:2.62986in"
@@ -337,17 +337,17 @@ style="width:5.75556in;height:3.35625in" />
 <img src="../../assets/products/vision-strain-gauge-edu/image35.png"
 style="width:5.75556in;height:3.42986in" />
 
-可查看不同类型的结果，如X 向应变、Y 向应变、主应变、次应变等
+可查看不同类型的结果，如 X 向应变、Y 向应变、主应变、次应变等
 
 <img src="../../assets/products/vision-strain-gauge-edu/image36.png"
 style="width:5.75556in;height:3.45347in" />
 
-位移数据，位移可查看X 向位移、Y 向位移、Z 向位移数据及云图
+位移数据，位移可查看 X 向位移、Y 向位移、Z 向位移数据及云图
 
 <img src="../../assets/products/vision-strain-gauge-edu/image37.png"
 style="width:5.75556in;height:3.42361in" />
 
-6)  导出点云数据，点击左上角“文件”，“输出”，“所有点数据”即可以excel 形式导出计算区域所有点数据
+6)  导出点云数据，点击左上角“文件”，“输出”，“所有点数据”即可以 excel 形式导出计算区域所有点数据
 
 <img src="../../assets/products/vision-strain-gauge-edu/image38.png"
 style="width:5.75556in;height:3.39306in" />
@@ -371,7 +371,7 @@ style="width:5.75972in;height:2.71528in" />
 
 ## 6.1 模块概述
 
-用于结构力学中梁弯曲实验教学，结合电阻应变片与DIC 测量方法进行对比教学。
+用于结构力学中梁弯曲实验教学，结合电阻应变片与 DIC 测量方法进行对比教学。
 
 ## 6.2 硬件安装
 
@@ -449,9 +449,9 @@ style="width:5.75972in;height:3.06389in" />
 
 安装校准装置
 
-多级位移校准（3 mm、5 mm、10 mm等）
+多级位移校准（3 mm、5 mm、10 mm 等）
 
-误差在±0.5% 或 ±1.5 μm内
+误差在±0.5% 或 ±1.5 μm 内
 
 保存记录，维修或怀疑精度时立即校准
 
@@ -493,7 +493,7 @@ style="width:1.28236in;height:1.37134in" />
 <img src="../../assets/products/vision-strain-gauge-edu/image50.png"
 style="width:1.29371in;height:1.37292in" />
 
-**总部地址：**深圳市南山区桃源街道南山智园C3 栋 15 层
+**总部地址：**深圳市南山区桃源街道南山智园 C3 栋 15 层
 
 **服务热线：**0755-86347753
 
