@@ -5,6 +5,7 @@
 ---
 
 - [产品手册](./products/index.md)
+  - [视觉应变仪教育版使用手册](./products/vision-strain-gauge-edu/manual.md)
 - [在线文档维护](./doc_maintain/index.md)
   - [软件环境初始化](./doc_maintain/env_init.md)
   - [自动测试工作流](./doc_maintain/actions_init.md)
