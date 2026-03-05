@@ -1,5 +1,4 @@
-# <img src="../../assets/products/vision-strain-gauge-edu/image2.png"
-style="width:8.77361in;height:5.09583in" />
+# <img src="../../assets/products/vision-strain-gauge-edu/image2.png" style="width:8.77361in;height:5.09583in" />
 
 # **目录**
 
@@ -475,8 +474,7 @@ style="width:5.75972in;height:3.06389in" />
 
 # 
 
-# <img src="../../assets/products/vision-strain-gauge-edu/image1.png"
-style="width:3.18958in;height:0.67778in" />
+# <img src="../../assets/products/vision-strain-gauge-edu/image1.png" style="width:3.18958in;height:0.67778in" />
 
 # 
 
@@ -493,8 +491,8 @@ style="width:1.28236in;height:1.37134in" />
 <img src="../../assets/products/vision-strain-gauge-edu/image50.png"
 style="width:1.29371in;height:1.37292in" />
 
-**总部地址：**深圳市南山区桃源街道南山智园 C3 栋 15 层
+总部地址：深圳市南山区桃源街道南山智园 C3 栋 15 层
 
-**服务热线：**0755-86347753
+服务热线：0755-86347753
 
-**官方网址：**www.haytham.com.cn
+官方网址：www.haytham.com.cn
