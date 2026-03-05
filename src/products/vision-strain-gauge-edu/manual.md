@@ -214,8 +214,8 @@ alt="640738d316208538913cf77995ed6ae7" />
 
 ### 4.2.1 标记点布置，将特定的标记点贴在标距范围内，软件可自动识别
 
-    <img src="../../assets/products/vision-strain-gauge-edu/image15.jpeg"
-    style="width:4.95556in;height:1.28611in" alt="IMG_7820" />
+<img src="../../assets/products/vision-strain-gauge-edu/image15.jpeg"
+style="width:4.95556in;height:1.28611in" alt="IMG_7820" />
 
 ## 4.3 软件使用
 
@@ -456,7 +456,7 @@ style="width:5.75972in;height:3.06389in" />
 
 ## 7.4 长期存放与应急处理
 
-**长期存放（\>4 周）**‌
+长期存放（\>4 周）
 
 清洁干燥后装箱，内置干燥剂
 
