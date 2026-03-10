@@ -16,7 +16,7 @@
 地址似 `https://github.com/your-user-name/public-docs`。
 下文称做“您的仓库”。
 
-接下来请配置[自动测试工作流](actions_init.md)。
+接下来请配置[自动测试工作流](actions-init.md)。
 
 ## 本地维护
 
@@ -48,4 +48,4 @@
 地址似 `https://github.com/your-user-name/public-docs`。
 下文称做“您的仓库”。
 
-接下来请配置[自动测试工作流](actions_init.md)。
+接下来请配置[自动测试工作流](actions-init.md)。
