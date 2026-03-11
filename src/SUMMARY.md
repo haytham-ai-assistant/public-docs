@@ -5,6 +5,9 @@
 ---
 
 - [产品手册](./products/index.md)
+  - [Dvc Software](./products/dvc-software/index.md)
+  - [Video Extensometer](./products/video-extensometer/index.md)
+  - [Vision Strain Gauge](./products/vision-strain-gauge/index.md)
 - [在线文档维护](./doc_maintain/index.md)
   - [软件环境初始化](./doc_maintain/env_init.md)
   - [自动测试工作流](./doc_maintain/actions_init.md)
