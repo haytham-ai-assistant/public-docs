@@ -3,7 +3,7 @@ style="width:12.17222in;height:6.28681in" />
 
 # 
 
-1)  **2D 视频引伸计尺寸**
+1)  2D 视频引伸计尺寸
 
 <!-- -->
 
@@ -22,7 +22,7 @@ style="width:5.80278in;height:2.68194in" />
 
 图 2 底部固定孔位尺寸图
 
-2)  **固定支架：**
+2)  固定支架：
 
 <!-- -->
 
@@ -49,9 +49,9 @@ style="width:2.71389in;height:2.71389in" alt="IMG_256" />
 
 图 5.移动支架
 
-3)  **电脑配置：**
+3)  电脑配置：
 
-    **单组纵向标记点：**
+    单组纵向标记点：
 
     CPU：I5 12400F（雅浚 x400）
 
@@ -61,7 +61,7 @@ style="width:2.71389in;height:2.71389in" alt="IMG_256" />
 
     硬盘：500G 固态
 
-    **横纵向多组标记点：**
+    横纵向多组标记点：
 
     CPU：I7 13700KF
 
@@ -71,7 +71,7 @@ style="width:2.71389in;height:2.71389in" alt="IMG_256" />
 
     硬盘：1T 固态
 
-4)  **详细平面，三维尺寸图**
+4)  详细平面，三维尺寸图
 
     ![](../../../../assets/products/video-extensometer/image9.emf)
     ![](../../../../assets/products/video-extensometer/image10.emf)
@@ -94,8 +94,8 @@ style="width:1.28236in;height:1.37134in" />
 <img src="../../../../assets/products/video-extensometer/image13.png"
 style="width:1.29371in;height:1.37292in" />
 
-**总部地址：**深圳市南山区桃源街道南山智园 C3 栋 15 层
+总部地址：深圳市南山区桃源街道南山智园 C3 栋 15 层
 
-**服务热线：**0755-86347753
+服务热线：0755-86347753
 
-**官方网址：**www.haytham.com.cn
+官方网址：www.haytham.com.cn
