@@ -1,4 +1,4 @@
-**双目三维视频引伸计使用手册**
+双目三维视频引伸计使用手册
 
 <img src="../../../../assets/products/video-extensometer/image1.png"
 style="width:5.25625in;height:4.16944in" alt="1678262656014" />
@@ -19,17 +19,15 @@ style="width:5.25625in;height:4.16944in" alt="1678262656014" />
 
 # 一、设备介绍
 
-**双目引伸计主要部件：设备主机、操作软件、加密狗、光源及光源控制器、固定支架及云台、标定板、USB3.0 数据线、散斑喷漆或高温材料。**
+双目引伸计主要部件：设备主机、操作软件、加密狗、光源及光源控制器、固定支架及云台、标定板、USB3.0 数据线、散斑喷漆或高温材料。
 
-# 1、设备主机
-
+# 1. 、设备主机
 主要包括固定支架和相机镜头两部分组成，通过底部不同的固定孔位可实现水平放置。
 
 <img src="../../../../assets/products/video-extensometer/image2.png"
 style="width:4.49167in;height:2.36667in" />
 
-# 2、光源
-
+# 2. 、光源
 常温标准视野配置环光，高温炉环境配置射灯，高低温箱环境配置条灯，大视野配摄影灯。
 
 <img src="../../../../assets/products/video-extensometer/image3.jpeg"
@@ -40,15 +38,13 @@ alt="c1aaed804931dc69e1368bfa032298d" /> <img src="../../../../assets/products/v
 style="width:2.60417in;height:1.5125in"
 alt="b77b552654ca15d446d47262414dad4" />
 
-# 3、固定支架 
-
+# 3. 、固定支架
 使用三角架、双目横杠和三轴云台，将相机镜头固定好，调整双目设备整体位置，调整水平。
 
 <img src="../../../../assets/products/video-extensometer/image6.png"
 style="width:1.7875in;height:2.49236in" />
 
-# 4、散斑
-
+# 4. 、散斑
 1）常温试验时，采用标配的黑白颜色散斑喷漆。
 
 2）高温试验时，采用酒精加高温材料，制作高温散斑。
@@ -88,10 +84,10 @@ style="width:5.40833in;height:1.88333in" />
 
 # 三、软件安装
 
-**初次使用时，必须在试验机电脑上先进行软件安装。**
+初次使用时，必须在试验机电脑上先进行软件安装。
 
-**电脑基本配置要求：i7 处理器 16GB 内存 1TB 固态硬盘 USB3.0 接口/
-64 位 WIN10 操作系统以上。**
+电脑基本配置要求：i7 处理器 16GB 内存 1TB 固态硬盘 USB3.0 接口/
+64 位 WIN10 操作系统以上。
 
 # 相机驱动安装
 
@@ -137,8 +133,7 @@ style="width:2.14167in;height:2.13403in" />
 
 # 四、软件使用
 
-# 1、软件打开
-
+# 1. 、软件打开
 > 将加密狗 U 盘插入到电脑主机 USB 插口中，双击软件图标<img
 > src="./media/image15.png"
 > style="width:0.35417in;height:0.44514in" />
@@ -149,8 +144,7 @@ style="width:2.14167in;height:2.13403in" />
 > src="./media/image16.png"
 > style="width:5.52569in;height:3.28681in" />
 
-# 2、图片保存操作
-
+# 2. 、图片保存操作
 1）选择保存：依次点击软件界面左上角“文件”→
 勾选“保存图片”，再次打开时，“保存图片”前端处于勾选状态。
 
@@ -158,8 +152,7 @@ style="width:2.14167in;height:2.13403in" />
 
 3）不需要保存图片：取消“保存图片”勾选状态。
 
-# 3、相机参数设置
-
+# 3. 、相机参数设置
 1）点击工具栏第二个按钮“配置”，相机参数设置。
 
 > <img
@@ -172,8 +165,7 @@ style="width:2.14167in;height:2.13403in" />
 > src="./media/image18.png"
 > style="width:3.56042in;height:2.80486in" />
 
-# 4、设备微调
-
+# 4. 、设备微调
 1）点击“相机”按钮，试样图片出现在屏幕上，可通过相机型号切换相机。
 
 > <img
@@ -182,7 +174,7 @@ style="width:2.14167in;height:2.13403in" />
 
 2）观察视窗，通过继续调整引伸计位置和角度，直至在视窗中看到清晰的待测试样全貌为止。
 
-**5.识别标记点（计算标距）**
+5.识别标记点（计算标距）
 
 1）自动识别标距：再次点击“相机”按钮，软件可以自动识别相关的标记点。
 
@@ -191,8 +183,7 @@ style="width:2.14167in;height:2.13403in" />
 <img src="../../../../assets/products/video-extensometer/image20.png"
 style="width:4.76528in;height:2.29722in" />
 
-# 6、数据计算
-
+# 6. 、数据计算
 1）点击“计算”按钮。
 
 <img src="../../../../assets/products/video-extensometer/image21.png"
@@ -203,8 +194,7 @@ style="width:3.925in;height:1.425in" />
 <img src="../../../../assets/products/video-extensometer/image22.png"
 style="width:5.35556in;height:2.65208in" />
 
-# 7、数据输出
-
+# 7. 、数据输出
 1）点击“快捷图表”中工具栏最左侧“保存”图标，
 
 > <img
@@ -216,8 +206,7 @@ style="width:5.35556in;height:2.65208in" />
 <img src="../../../../assets/products/video-extensometer/image24.png"
 style="width:4.70357in;height:2.73638in" />
 
-# 8、图片二次计算
-
+# 8. 、图片二次计算
 1）可以将已保存的图片，或者在其他单目三维引伸计上保存的图片，导入到本软件进行二次计算。
 
 2）依次点击软件界面左上角“文件”→ “输入”→
