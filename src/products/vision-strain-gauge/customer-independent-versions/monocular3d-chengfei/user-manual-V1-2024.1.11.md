@@ -1,4 +1,4 @@
-**高温高速视觉应变仪使用手册**
+高温高速视觉应变仪使用手册
 
 <img src="../../../../assets/products/vision-strain-gauge/image1.png"
 style="width:4.88819in;height:5.04375in" alt="1683252863248" />
@@ -55,10 +55,9 @@ style="width:4.88819in;height:5.04375in" alt="1683252863248" />
 
 # 一、设备介绍
 
-高温高速视觉应变仪**主要部件：设备主机、操作软件、加密狗、光源及光源控制器、固定支架及云台、标定板、网线、散斑喷漆或高温材料。**
+高温高速视觉应变仪主要部件：设备主机、操作软件、加密狗、光源及光源控制器、固定支架及云台、标定板、网线、散斑喷漆或高温材料。
 
-# 1、光源
-
+# 1. 、光源
 > 常温标准视野配置环光，高温炉环境配置射灯，高低温箱环境配置射灯。
 
 <img src="../../../../assets/products/vision-strain-gauge/image2.jpeg"
@@ -69,14 +68,12 @@ alt="c1aaed804931dc69e1368bfa032298d" /> <img src="../../../../assets/products/v
 style="width:2.60417in;height:1.5125in"
 alt="b77b552654ca15d446d47262414dad4" />
 
-# 2、固定支架 
-
+# 2. 、固定支架
 利用试验机安装孔固定的有旋转支架或 45 度支架。
 
 可移动式固定支架有三角架或电动支架。
 
-# 3、散斑
-
+# 3. 、散斑
 常温试验时，采用标配的黑白颜色散斑喷漆。
 
 <img src="../../../../assets/products/vision-strain-gauge/image5.png"
@@ -141,8 +138,7 @@ style="width:1.17708in;height:1.31875in" />
 
 # 软件使用
 
-# 1、高速相机使用-Chronos
-
+# 1. 、高速相机使用-Chronos
 1.1 相机基本参数：Chronos 2.1 最大分辨率 1920X1080，最小分辨率 640x96
 采集帧率 1000fps 到 24046fps。
 
@@ -178,8 +174,7 @@ style="width:6.02014in;height:3.23889in" />
 <img src="../../../../assets/products/vision-strain-gauge/image16.png"
 style="width:5.76458in;height:4.47361in" />
 
-# 2、高温高速视觉应变仪软件使用
-
+# 2. 、高温高速视觉应变仪软件使用
 将加密狗 U 盘插入到电脑主机 USB 插口中，双击软件图标<img src="../../../../assets/products/vision-strain-gauge/image17.png"
 style="width:0.28889in;height:0.32778in" alt="1675246726474" />
 
@@ -188,14 +183,12 @@ style="width:0.28889in;height:0.32778in" alt="1675246726474" />
 <img src="../../../../assets/products/vision-strain-gauge/image18.png"
 style="width:5.68472in;height:2.88681in" />
 
-# 3、创建新项目
-
+# 3. 、创建新项目
 点击软件“新建项目”弹出新建项目对话匡，填写项目名称，选择保存项目路径。
 <img src="../../../../assets/products/vision-strain-gauge/image19.png"
 style="width:5.59792in;height:2.92778in" />
 
-# 4、导入转化格式后的图片
-
+# 4. 、导入转化格式后的图片
 在软件主页面点击“文件”连接按钮呈高亮状态，即可显示文件框中的选项画面，
 
 点击“输入”按钮弹置界面，选择“图形序列”进入页面，根据提示选择对应的文件夹，选择已经转换格式后的图片。
@@ -206,15 +199,13 @@ style="width:3.13889in;height:2.51667in" />
 <img src="../../../../assets/products/vision-strain-gauge/image21.png"
 style="width:5.75486in;height:3.03264in" />
 
-# 5、区域设置
-
+# 5. 、区域设置
 点击“区域设置”按钮，根据试样形状和检测位置，框选合适的测试区域类型和位置。
 
 <img src="../../../../assets/products/vision-strain-gauge/image22.png"
 style="width:5.75486in;height:3.06597in" />
 
-# 6、计算参数设置
-
+# 6. 、计算参数设置
 点击“文件”弹出下拉框，点击“计算参数设置”，设置所需的子区大小。
 
 <img src="../../../../assets/products/vision-strain-gauge/image23.png"
@@ -227,15 +218,13 @@ style="width:2.22986in;height:1.85139in" />
 style="width:2.28333in;height:2.03194in" /> <img src="../../../../assets/products/vision-strain-gauge/image26.png"
 style="width:2.37986in;height:2.13889in" />
 
-# 7、计算
-
+# 7. 、计算
 点击“计算”按钮，即可进行计算，软件最下端会显示计算进度条，计算完成后软件弹出“计算完成”提示。
 
 <img src="../../../../assets/products/vision-strain-gauge/image27.png"
 style="width:5.75417in;height:3.08125in" />
 
-# 8、数据查看
-
+# 8. 、数据查看
 点击“构造”，可以创建点或者应变片，并且显示数据在“曲线图表”上。
 
 <img src="../../../../assets/products/vision-strain-gauge/image28.png"
@@ -248,8 +237,7 @@ style="width:2.82153in;height:1.80972in" />
 style="width:2.29583in;height:2.64306in" /><img src="../../../../assets/products/vision-strain-gauge/image31.png"
 style="width:3.30694in;height:2.39514in" />
 
-# 9、数据保存
-
+# 9. 、数据保存
 点击“报告”按钮弹出“创建报告”菜单可以导出报告，动画，或者图片数据。点击“曲线图表”上保存按钮，保存构造点数据。
 
 <img src="../../../../assets/products/vision-strain-gauge/image32.png"
@@ -278,11 +266,11 @@ style="width:2.90417in;height:1.96736in" />
 
 9.  即使发现仪器功能异常，非专业维修人员不可擅自拆开仪器，以免发生不必要的损坏。
 
-**感谢您选用我公司产品！**
+感谢您选用我公司产品！
 
-**海塞姆，点亮机器的眼睛！**
+海塞姆，点亮机器的眼睛！
 
-**深圳市海塞姆科技有限公司**
+深圳市海塞姆科技有限公司
 
 地址：深圳市南山区桃源街道平山社区
 
