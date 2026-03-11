@@ -2,10 +2,10 @@
 
 ## 启动编辑器
 
-如果您在[软件环境初始化](env-init.md)时配置了：
+如果您在[软件环境初始化](env_init.md)时配置了：
 
-- [在线维护](env-init.md#在线维护)：使用[在线编辑器](#在线编辑器)；
-- [本地维护](env-init.md#本地维护)：使用[拉取仓库并本地编辑](#拉取仓库并本地编辑)。
+- [在线维护](env_init.md#在线维护)：使用[在线编辑器](#在线编辑器)；
+- [本地维护](env_init.md#本地维护)：使用[拉取仓库并本地编辑](#拉取仓库并本地编辑)。
 
 ### 在线编辑器
 
@@ -32,10 +32,10 @@ src/
 ├── SUMMARY.md                    # 目录配置文件
 ├── products/                     # 产品类
 │   ├── index.md
-│   ├── video-extensometer/       # 视频引伸计类
+│   ├── videoextensometer/        # 视频引伸计类
 │   │   ├── index.md
 │   │   └── ...
-│   └── vision-strain-gauge/      # DIC 系统类
+│   └── visualstraingauge/        # DIC 系统类
 │       ├── index.md
 │       └── DIC_Tracker_ONS-B-10/
 │           ├── v0.5.1/           # 版本
@@ -48,8 +48,8 @@ src/
 └── doc-maintain/                 # 文档维护（当前目录）
     ├── index.md                  # 文档维护首页（章节描述）
     ├── env-init.md
-    ├── doc_write.md              # 文档的编写（当前页面）
-    └── doc_format.md
+    ├── doc-write.md              # 文档的编写（当前页面）
+    └── doc-format.md
 ```
 
 ## 须知
