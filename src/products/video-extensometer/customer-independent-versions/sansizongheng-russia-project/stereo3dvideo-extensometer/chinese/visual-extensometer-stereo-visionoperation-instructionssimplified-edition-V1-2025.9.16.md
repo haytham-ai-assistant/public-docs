@@ -1,4 +1,4 @@
-**VisualExtensometerStereoVision 使用手册**
+VisualExtensometerStereoVision 使用手册
 
 <img src="../../../../../../assets/products/video-extensometer/image2.jpeg"
 style="width:4.72014in;height:6.89375in"

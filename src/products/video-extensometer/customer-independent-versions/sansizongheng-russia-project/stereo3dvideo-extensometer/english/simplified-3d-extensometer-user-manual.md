@@ -1,16 +1,15 @@
-# 3D Extensometer Stereo Vision User Manual
-
+# 3. D Extensometer Stereo Vision User Manual
 # <img src="../../../../../../assets/products/video-extensometer/image1.jpeg"
 style="width:4.72014in;height:6.89375in"
 alt="22e1cac1120ddc9e6bf232bea4f20af5" />
 
-**Table of Contents**
+Table of Contents
 
-1.  **Equipment Setup —— 1**
+1.  Equipment Setup —— 1
 
-**II. Software Parameter Details —— 5**
+II. Software Parameter Details —— 5
 
-**III. Experimental Operation Procedure —— 13**
+III. Experimental Operation Procedure —— 13
 
 1\. Specimen Marking (Marker Pen/Spray Paint) —— 13
 
@@ -20,11 +19,11 @@ alt="22e1cac1120ddc9e6bf232bea4f20af5" />
 
 4\. Frame Cropping (For Increased Frame Rate) —— 14
 
-**IV. Software Notes —— 15**
+IV. Software Notes —— 15
 
-**V. Safe Operation & Equipment Maintenance —— 15**
+V. Safe Operation & Equipment Maintenance —— 15
 
-**I. Equipment Setup**
+I. Equipment Setup
 
 1.  Assemble the tripod.
     <img src="../../../../../../assets/products/video-extensometer/image2.jpeg"
@@ -78,8 +77,8 @@ alt="22e1cac1120ddc9e6bf232bea4f20af5" />
 
 <!-- -->
 
-2.  **  
-    Software Parameter Details**
+2.    
+    Software Parameter Details
 
 Set the image save paths for the left and right cameras. Saving images
 is typically used for full-field analysis; if full-field analysis is not
@@ -91,60 +90,60 @@ alt="820ae710-8884-4928-ae61-60e9a63dbd98" /><img src="../../../../../../assets/
 style="width:3.80417in;height:1.67778in" /><img src="../../../../../../assets/products/video-extensometer/image10.png"
 style="width:2.60972in;height:2.98958in" />
 
-1)  **Save Images:** When checked, images from real-time calculation
+1)  Save Images: When checked, images from real-time calculation
     will be saved to the set image storage path.
-2)  **Set Image Save Path:** Configure the image storage path; paths for
+2)  Set Image Save Path: Configure the image storage path; paths for
     left and right cameras can be set separately.
-3)  **Set data save path:** Configure the storage path for calculation
+3)  Set data save path: Configure the storage path for calculation
     results (results are saved as .csv format table data).
     <img src="../../../../../../assets/products/video-extensometer/image11.png"
     style="width:6.03819in;height:3.17778in" />
-4)  **Select Camera:** Select the camera.
-5)  **Camera position:** Designate the camera as left or right.
-6)  **Camera Image Rotation—-Rotate Right 90°:** Rotates the image from
+4)  Select Camera: Select the camera.
+5)  Camera position: Designate the camera as left or right.
+6)  Camera Image Rotation—-Rotate Right 90°: Rotates the image from
     both cameras 90° to the right.
     <img src="../../../../../../assets/products/video-extensometer/image12.png"
     style="width:4.08889in;height:4.88403in" />
-7)  **Sliding Window Length:** The length of the sliding window (One
+7)  Sliding Window Length: The length of the sliding window (One
     data point per image; several data points are used for one filtering
     operation).
-8)  **Sliding Window Count:** The number of sliding window passes (How
+8)  Sliding Window Count: The number of sliding window passes (How
     many times the data is filtered. A higher value results in a
     smoother curve but increases data distortion).
-9)  **Subset size:** The size of the search subset.
+9)  Subset size: The size of the search subset.
     <img src="../../../../../../assets/products/video-extensometer/image13.png"
     style="width:6.01736in;height:7.09653in" />
-10) **Communication Format—UDP_Json:** (Communication method with the
+10) Communication Format—UDP_Json: (Communication method with the
     testing machine).
-11) **UDP Sender—8011:** (Communication method with the testing
+11) UDP Sender—8011: (Communication method with the testing
     machine).
     <img src="../../../../../../assets/products/video-extensometer/image14.png"
     style="width:6.27292in;height:7.33681in" />
-12) **Stage Adjustment:** Phase adjustment allows setting different
+12) Stage Adjustment: Phase adjustment allows setting different
     sampling rates for three stages.
-13) **Real-time Adjustment:** Real-time adjustment sets the current
+13) Real-time Adjustment: Real-time adjustment sets the current
     sampling rate per second.
-14) **Interval Adjustment:** Interval adjustment sets the time interval
+14) Interval Adjustment: Interval adjustment sets the time interval
     for capturing an image.
     <img src="../../../../../../assets/products/video-extensometer/image15.png"
     style="width:5.96042in;height:7.00208in" />
-15) **Incremental value 0.95:** Replaces the reference image when the
+15) Incremental value 0.95: Replaces the reference image when the
     correlation value falls below the set threshold (Useful to prevent
     the extensometer from losing track during rebar stretching as
     surface scale detaches).
-16) **Zncc Threshold 0.7:** Parameter fixed by the software for specific
+16) Zncc Threshold 0.7: Parameter fixed by the software for specific
     scenarios; cannot be modified.
-17) **CZncc Threshold 0.5:** Parameter fixed by the software for
+17) CZncc Threshold 0.5: Parameter fixed by the software for
     specific scenarios; cannot be modified.
     <img src="../../../../../../assets/products/video-extensometer/image15.png"
     style="width:5.99375in;height:7.04167in" />
-18) **Enter experiment name:** Option to enter an experiment name before
+18) Enter experiment name: Option to enter an experiment name before
     starting for easier data traceability later.
     <img src="../../../../../../assets/products/video-extensometer/image16.png"
     style="width:2.25694in;height:2.54375in" />
-19) **True Value:** The software calculates the absolute value by
+19) True Value: The software calculates the absolute value by
     default. Check this to output the true value.
-20) **Average Value:** When checked, the software will calculate the
+20) Average Value: When checked, the software will calculate the
     average value for the virtual extensometers in the longitudinal and
     transverse directions separately.
     <img src="../../../../../../assets/products/video-extensometer/image17.png"
@@ -167,8 +166,8 @@ style="width:2.60972in;height:2.98958in" />
 
 <!-- -->
 
-3.  **  
-    Experimental Operation Procedure**
+3.    
+    Experimental Operation Procedure
 
 After setting up the equipment and adjusting parameters:
 
@@ -210,8 +209,8 @@ After setting up the equipment and adjusting parameters:
     1,000,000 μs / current exposure time. These two factors together
     determine the final camera frame rate.
 
-**  
-IV. Software Notes**
+  
+IV. Software Notes
 
 1.  If no image appears when opening the software, it might be due to
     inconsistent frame sizes between the two cameras (can be reset in
@@ -226,7 +225,7 @@ IV. Software Notes**
     software’s output data.
 3.  The software requires a dongle to be connected for operation.
 
-**V. Safe Operation and Equipment Maintenance**
+V. Safe Operation and Equipment Maintenance
 
 1.  If equipment accuracy issues arise, perform recalibration according
     to the detailed instructions in the Stereo Extensometer Operation

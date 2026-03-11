@@ -1,33 +1,32 @@
-# 2D Extensometer User Manual
-
+# 2. D Extensometer User Manual
 <img src="../../../../../../assets/products/video-extensometer/image1.jpeg"
 style="width:4.72014in;height:6.89375in"
 alt="22e1cac1120ddc9e6bf232bea4f20af5" />
 
-**Table of Contents**
+Table of Contents
 
-1.  **Equipment Introduction —— 1**
-2.  **Hardware Installation —— 3**
-3.  **Software Installation —— 11**
-4.  **Equipment Operation —— 13**
-5.  **Software Notes —— 30**
-6.  **Safe Operation and Precautions —— 31**
+1.  Equipment Introduction —— 1
+2.  Hardware Installation —— 3
+3.  Software Installation —— 11
+4.  Equipment Operation —— 13
+5.  Software Notes —— 30
+6.  Safe Operation and Precautions —— 31
 
 <!-- -->
 
-1.  **Equipment Introduction**
+1.  Equipment Introduction
     The main components of the 2D Extensometer are: Main Unit, Operating
     Software, Dongle, Light Source and Light Source Controller (2
     types), Fixing Bracket and Pan-Tilt Head, Calibration Target, USB
     3.0 data cable.
-    1.  **Main Unit** Mainly consists of the fixing bracket and the
+    1.  Main Unit Mainly consists of the fixing bracket and the
         camera lens assembly. It can be placed horizontally through
         different bottom fixing holes.
 
         <img src="../../../../../../assets/products/video-extensometer/image2.jpeg"
         style="width:5.99653in;height:3.37222in" />
 
-    2.  **Light Source** Standard configuration for room temperature and
+    2.  Light Source Standard configuration for room temperature and
         standard field of view includes a bar light. For measuring the
         percentage reduction of area, add the Backlight Panel.
 
@@ -37,7 +36,7 @@ alt="22e1cac1120ddc9e6bf232bea4f20af5" />
         <img src="../../../../../../assets/products/video-extensometer/image4.jpeg"
         style="width:4.42708in;height:1.53125in" />
 
-    3.  **Fixing Bracket** Use a Tripod, Pan-Tilt Head, and Stereo Bar
+    3.  Fixing Bracket Use a Tripod, Pan-Tilt Head, and Stereo Bar
         to fix the camera lenses. Adjust the overall position of the
         stereo device and ensure it is level.
 
@@ -45,30 +44,30 @@ alt="22e1cac1120ddc9e6bf232bea4f20af5" />
         style="width:3.4in;height:4.96667in"
         alt="22e1cac1120ddc9e6bf232bea4f20af5" />
 
-    4.  **Calibration Target** Used for camera calibration to ensure
+    4.  Calibration Target Used for camera calibration to ensure
         accuracy.
 
         <img src="../../../../../../assets/products/video-extensometer/image5.jpeg"
         style="width:3.375in;height:3.02292in"
         alt="62c96b456d456c634ac1ba2eac054449" />
 
-2.  **Hardware Installation**
+2.  Hardware Installation
 
-    **2.1.** Assemble the Tripod.
+    2.1. Assemble the Tripod.
 
     <img src="../../../../../../assets/products/video-extensometer/image6.jpeg"
     style="width:3.11458in;height:5.53819in"
     alt="fc24f13436f5f3a79576712ec7a12dfb" />
 
-**  
-2.2.** Fix the Quick Release Plate to the base of the Stereo Bar.
+  
+2.2. Fix the Quick Release Plate to the base of the Stereo Bar.
 
 <img src="../../../../../../assets/products/video-extensometer/image7.jpeg"
 style="width:2.98125in;height:5.30208in"
 alt="01868b0ef59254b1331ab621898cdc9f" />
 
-**  
-2.3.** Install the cameras and light sources on the Stereo Bar. Adjust
+  
+2.3. Install the cameras and light sources on the Stereo Bar. Adjust
 for level and height.
 
     2.3.1) Tripod Leg height adjustment
@@ -77,8 +76,8 @@ for level and height.
     2.3.4) Pan-Tilt Head Tilt Angle adjustment
     2.3.5) Quick Release Plate detachment adjustment
 
-**  
-2.4. Camera Connection**
+  
+2.4. Camera Connection
 
 Connect the Extensometer to the computer host using a USB 3.0 data cable
 (the computer must support USB 3.0 interface).
@@ -87,8 +86,8 @@ Connect the Extensometer to the computer host using a USB 3.0 data cable
 style="width:5.32153in;height:6.45347in"
 alt="7d88af02f7b6945df1f94e27c2cbca11" />
 
-**  
-2.5. Backlight Panel Installation**
+  
+2.5. Backlight Panel Installation
 
 Fix the Backlight Panel to the testing machine using the T-bolt fixture.
 Secure the Backlight Panel to the fixture using M3\*10mm screws.
@@ -102,8 +101,8 @@ style="width:2.2125in;height:3.49861in" /><img src="../../../../../../assets/pro
 style="width:1.95139in;height:3.47014in"
 alt="65d79b1fa7607b7a8bdfa41cb29d7482" />
 
-**  
-2.6. Light Source 1 (Bar Light) Connection:** Connect the power cable to
+  
+2.6. Light Source 1 (Bar Light) Connection: Connect the power cable to
 the Light Source Controller, then connect the Light Source Controller
 (CH interface) to the light source using the black power cable.
 
@@ -118,8 +117,8 @@ the Light Source Controller, then connect the Light Source Controller
     2.6.4) Adjust brightness value;
     2.6.5) Channel and brightness value display
 
-**  
-2.7.** According to the preset distance parameters of the stereo
+  
+2.7. According to the preset distance parameters of the stereo
 extensometer, adjust to a suitable placement distance (camera angle
 approx. 30°).
 
@@ -134,8 +133,8 @@ distance from the “front edge of the device to the specimen” and adjust
 it to approximately 1000mm. Achieve basic alignment between the
 extensometer center and the center of the specimen to be tested.
 
-**  
-2.8.** Remove the lens dust covers from the device. Press the Light
+  
+2.8. Remove the lens dust covers from the device. Press the Light
 Source Controller switch to turn on the blue light source and the
 Backlight Panel. Adjust the brightness for a moderate field of view
 brightness. Crop the frame of both cameras to an appropriate size (the
@@ -146,19 +145,19 @@ style="width:3.77639in;height:3.02708in"
 alt="8463e152-f04f-43e5-a0d3-8052f2b86e48" /><img src="../../../../../../assets/products/video-extensometer/image19.png"
 style="width:5.76806in;height:3.0413in" />
 
-3.  **Software Installation**
+3.  Software Installation
 
     For first-time use, software must be installed on the testing
     machine computer.
 
-**3.1 Camera Driver Installation** Locate the camera driver file in the
+3.1 Camera Driver Installation Locate the camera driver file in the
 provided USB drive materials, extract it, and click to install.
 
 <img src="../../../../../../assets/products/video-extensometer/image20.png"
 style="width:3.51806in;height:0.35764in" alt="1718705453768" /><img src="../../../../../../assets/products/video-extensometer/image21.png"
 style="width:3.04444in;height:0.35764in" alt="1718705636399" />
 
-**3.2 Software Installation**
+3.2 Software Installation
 
 1\) Locate the following file in the provided USB drive materials
 (version number may vary), extract it, and click to install.
@@ -169,7 +168,7 @@ extensometer software icons will be displayed on the computer screen.
 <img src="../../../../../../assets/products/video-extensometer/image22.png"
 style="width:1.90625in;height:1.19792in" />
 
-**3.3 Software Installation Verification**
+3.3 Software Installation Verification
 
 <img src="../../../../../../assets/products/video-extensometer/image23.png"
 style="width:1.89722in;height:3.65069in" />1) Click the camera driver
@@ -190,10 +189,10 @@ style="width:0.88333in;height:0.99097in" alt="1718705772522" />
 
 <!-- -->
 
-4.  **  
-    Equipment Operation**
+4.    
+    Equipment Operation
 
-**4.1 Camera Settings**
+4.1 Camera Settings
 
 Open the camera driver software and enter the acquisition interface.
 
@@ -265,7 +264,7 @@ Open the camera driver software and enter the acquisition interface.
     style="width:4.08403in;height:4.5125in"
     alt="06bd416fdf9f50c36e21139ca73b9375" />
 
-**4.2 Calibration:** Using the 2D software, re-calibration is not
+4.2 Calibration: Using the 2D software, re-calibration is not
 required if the working distance has not changed. Re-calibration is only
 needed if the working distance changes. The calibration process is as
 follows: Open the driver software<img src="../../../../../../assets/products/video-extensometer/image32.png"
@@ -314,69 +313,69 @@ re-projection error is large, re-calibration is necessary.
 <img src="../../../../../../assets/products/video-extensometer/image37.png"
 style="width:5.30833in;height:4.58542in" />
 
-**  
-4.3 Software Parameter Function Introduction**
+  
+4.3 Software Parameter Function Introduction
 
 <img src="../../../../../../assets/products/video-extensometer/image38.png"
 style="width:3.52083in;height:5.20833in" />
 
-1)  **Save Images:** When checked, the images used for real-time
+1)  Save Images: When checked, the images used for real-time
     calculation will be saved to the set image storage path.
-2)  **Set Image Save Path:** Set the image storage path.
-3)  **Set data save path:** Set the storage path for calculation results
+2)  Set Image Save Path: Set the image storage path.
+3)  Set data save path: Set the storage path for calculation results
     (results are saved in .csv format).
-4)  **Select Camera:** Select camera.
+4)  Select Camera: Select camera.
 5)  <img src="../../../../../../assets/products/video-extensometer/image39.png"
-    style="width:3.59167in;height:3.76458in" />**Camera Image
-    Rotation—-Rotate Right 90°:** Rotate both camera images 90° to the
+    style="width:3.59167in;height:3.76458in" />Camera Image
+    Rotation—-Rotate Right 90°: Rotate both camera images 90° to the
     right.
     <img src="../../../../../../assets/products/video-extensometer/image40.png"
     style="width:4.5375in;height:4.78125in" />
-6)  **Sliding Window Length:** Sliding window length (one data point per
+6)  Sliding Window Length: Sliding window length (one data point per
     image, number of data points for one filtering operation).
-7)  **Sliding Window Count:** Sliding window count (how many times to
+7)  Sliding Window Count: Sliding window count (how many times to
     filter the data; higher value makes the curve smoother but data more
     distorted).
-8)  **Subset Size:** Search Subset size.
-9)  **Calculation Segment Count:** Number of segments calculated for
+8)  Subset Size: Search Subset size.
+9)  Calculation Segment Count: Number of segments calculated for
     percentage reduction of area.
     <img src="../../../../../../assets/products/video-extensometer/image41.png"
     style="width:5.28333in;height:6.22917in" />
-10) **Communication Format—UDP_Json:** Communication method with the
+10) Communication Format—UDP_Json: Communication method with the
     testing machine.
-11) **UDP Sender—8011:** Communication port with the testing machine
+11) UDP Sender—8011: Communication port with the testing machine
     (UDP).
     <img src="../../../../../../assets/products/video-extensometer/image42.png"
     style="width:6.37708in;height:7.45833in" />
-12) **Stage Adjustment:** Stage adjustment allows setting different
+12) Stage Adjustment: Stage adjustment allows setting different
     Sampling Rates for three stages.
-13) **Real-time Adjustment:** Real-time adjustment sets the current
+13) Real-time Adjustment: Real-time adjustment sets the current
     Sampling Rate (per second).
-14) **Interval Adjustment:** Interval adjustment sets the time interval
+14) Interval Adjustment: Interval adjustment sets the time interval
     for capturing one image.
     <img src="../../../../../../assets/products/video-extensometer/image43.png"
     style="width:6.02708in;height:7.1125in" />
-15) **Incremental value 0.95:** Replace the reference image if the
+15) Incremental value 0.95: Replace the reference image if the
     Correlation Value is less than the set threshold (prevents the
     extensometer from losing track during rebar stretching due to mill
     scale peeling).
-16) **Zncc Threshold 0.7:** Parameter for specific scenarios, cannot be
+16) Zncc Threshold 0.7: Parameter for specific scenarios, cannot be
     changed.
-17) **CZncc Threshold 0.5:** Parameter for specific scenarios, cannot be
+17) CZncc Threshold 0.5: Parameter for specific scenarios, cannot be
     changed.
     <img src="../../../../../../assets/products/video-extensometer/image44.png"
     style="width:5.975in;height:7.01944in" />
-18) **Enter experiment name:** Whether to require entering an experiment
+18) Enter experiment name: Whether to require entering an experiment
     name before starting for easier data traceability later.
     <img src="../../../../../../assets/products/video-extensometer/image45.png"
     style="width:3.67222in;height:3.15278in" />
-19) **True Value:** The software calculates absolute values by default.
+19) True Value: The software calculates absolute values by default.
     Check this to output true values (necessary if the specimen is in
     compression during the experiment).
-20) **Average Value:** When checked, the software will average the
+20) Average Value: When checked, the software will average the
     virtual extensometer values (longitudinal and transverse) from both
     cameras.
-21) **Calculate Width:** Calculate width, used for calculating
+21) Calculate Width: Calculate width, used for calculating
     percentage reduction of area. (In rebar experiments, because rebars
     have ribs, when clamping the specimen, ensure the Longitudinal Rib
     is positioned at the center of the rebar in the camera image, as
@@ -396,7 +395,7 @@ style="width:3.52083in;height:5.20833in" />
 26) Real-time calculated data table display.
 27) After calculation ends, results data can be manually exported.
 
-**4.4 Software Operation Process**
+4.4 Software Operation Process
 
 1\) Use a marker pen or spray paint to create Marker Points on the
 specimen and install the specimen on the testing machine.
@@ -450,7 +449,7 @@ percentage reduction of area). If data is received, you can proceed with
 the experiment on the testing machine. After the experiment, return to
 the extensometer software to stop the calculation.
 
-**V. Software Notes**
+V. Software Notes
 
 1\. If no image appears when opening the software, the camera port might
 be occupied by another software (close other software and reopen the
@@ -475,36 +474,36 @@ recommended to use the percentage reduction of area function, as
 attaching the physical extensometer may interfere with width recognition
 and cause abnormalities.
 
-**  
-VI. Safe Operation and Precautions**
+  
+VI. Safe Operation and Precautions
 
-**5.1.** Do not operate this instrument alone without professional
+5.1. Do not operate this instrument alone without professional
 training.
 
-**5.2.** Try to avoid directing the light source into human eyes during
+5.2. Try to avoid directing the light source into human eyes during
 use to prevent potential eye injury to the operator.
 
-**5.3.** In high-temperature environments, wear high-temperature gloves
+5.3. In high-temperature environments, wear high-temperature gloves
 to prevent burns. When creating Speckle Patterns or Marker Points, be
 careful not to get materials in the eyes.
 
-**5.4.** When the instrument is not in use, place it in its case in a
+5.4. When the instrument is not in use, place it in its case in a
 dry location. Protect it from shock, dust, and moisture.
 
-**5.5.** Transport the instrument in its case. Handle with care during
+5.5. Transport the instrument in its case. Handle with care during
 transport to avoid squeezing, impact, and severe vibration. For
 long-distance transport, use padding around the case.
 
-**5.6.** When installing or removing the instrument from the tripod,
+5.6. When installing or removing the instrument from the tripod,
 support the instrument first to prevent it from falling.
 
-**5.7.** Do not use chemical reagents to clean plastic parts or Acrylic
+5.7. Do not use chemical reagents to clean plastic parts or Acrylic
 surfaces. Use a soft cloth dampened with water.
 
-**5.8.** Before measurement, carefully and thoroughly inspect the
+5.8. Before measurement, carefully and thoroughly inspect the
 instrument. Confirm that all instrument indicators, functions, and power
 supply meet requirements before operation.
 
-**5.9.** If any instrument malfunction is found, non-professional
+5.9. If any instrument malfunction is found, non-professional
 maintenance personnel must not disassemble the instrument themselves to
 avoid unnecessary damage.

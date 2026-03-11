@@ -1,21 +1,20 @@
-# 2D Visual Extensometer User Manual
-
+# 2. D Visual Extensometer User Manual
 <img src="../../../../../../assets/products/video-extensometer/image1.jpeg"
 style="width:4.72014in;height:6.89375in"
 alt="22e1cac1120ddc9e6bf232bea4f20af5" />
 
-**Table Of Contents**
+Table Of Contents
 
-[**1. Hardware Installation** **3**](\l)
+[1. Hardware Installation 3](\l)
 
-[**2. Software Parameter Details** **11**](\l)
+[2. Software Parameter Details 11](\l)
 
-[**3. Experimental Operation Procedure** **19**](\l)
+[3. Experimental Operation Procedure 19](\l)
 
-[**4. Software Notes** **20**](\l)
+[4. Software Notes 20](\l)
 
-**  
-****1. Hardware Installation**
+  
+1. Hardware Installation
 
 1.1 Assemble the Rotating Bracket or Tripod.
 
@@ -107,94 +106,94 @@ the backlight panel area).
 style="width:3.78125in;height:3.03125in" />
 
 <img src="../../../../../../assets/products/video-extensometer/image15.png"
-style="width:5.77083in;height:3.04167in" />**  
-**
+style="width:5.77083in;height:3.04167in" />  
 
-**2. Software Parameter Details**
+
+2. Software Parameter Details
 
 <img src="../../../../../../assets/products/video-extensometer/image16.png"
 style="width:3.52083in;height:5.20833in" />
 
-**Save Images:** When checked, the images used for real-time calculation
+Save Images: When checked, the images used for real-time calculation
 will be saved to the set image save path.
 
-**Set Image Save Path:** Set the path for saving images.
+Set Image Save Path: Set the path for saving images.
 
-**Set data save path:** Set the storage path for calculation results
+Set data save path: Set the storage path for calculation results
 (results are saved as .csv format table data).
 
 <img src="../../../../../../assets/products/video-extensometer/image17.png"
 style="width:6.47917in;height:6.78125in" />
 
-**Select Camera:** Select the camera.
+Select Camera: Select the camera.
 
-**Camera Image Rotation----Rotate Right 90°:** Rotate both camera images
+Camera Image Rotation----Rotate Right 90°: Rotate both camera images
 90° to the right.
 
 <img src="../../../../../../assets/products/video-extensometer/image18.png"
 style="width:6.48958in;height:6.83333in" />
 
-**Sliding Window Length:** The number of data points (one per image)
+Sliding Window Length: The number of data points (one per image)
 used for a single filtering operation.
 
-**Sliding Window Count:** The number of times filtering is applied to
+Sliding Window Count: The number of times filtering is applied to
 the data. A higher value results in a smoother curve but more distorted
 data.
 
-**Subset Size:** The size of the search Subset.
+Subset Size: The size of the search Subset.
 
-**Calculation Segment Count:** The number of segments used for
+Calculation Segment Count: The number of segments used for
 calculating the percentage reduction of area.
 
 <img src="../../../../../../assets/products/video-extensometer/image19.png"
 style="width:6.45833in;height:7.61458in" />
 
-**Communication Format---UDP_Json:** Communication method with the
+Communication Format---UDP_Json: Communication method with the
 testing machine.
 
-**UDP Sender---8011:** Communication method with the testing machine
+UDP Sender---8011: Communication method with the testing machine
 (UDP port).
 
-**Stage Adjustment:** Allows setting different Sampling Rates for three
+Stage Adjustment: Allows setting different Sampling Rates for three
 stages.
 
-**Real-time Adjustment:** Adjusts the current Sampling Rate (images per
+Real-time Adjustment: Adjusts the current Sampling Rate (images per
 second).
 
-**Interval Adjustment:** Adjusts the time interval between capturing
+Interval Adjustment: Adjusts the time interval between capturing
 images.
 
-**Incremental value 0.95:** The reference image is replaced if the
+Incremental value 0.95: The reference image is replaced if the
 Correlation Value is below the set threshold (helps prevent tracking
 loss due to surface scale peeling during rebar tension).
 
 <img src="../../../../../../assets/products/video-extensometer/image20.png"
 style="width:6.47917in;height:7.64583in" />
 
-**Zncc Threshold 0.7:** Parameter for specific scenarios, cannot be
+Zncc Threshold 0.7: Parameter for specific scenarios, cannot be
 modified.
 
-**CZncc Threshold 0.5:** Parameter for specific scenarios, cannot be
+CZncc Threshold 0.5: Parameter for specific scenarios, cannot be
 modified.
 
 <img src="../../../../../../assets/products/video-extensometer/image21.png"
 style="width:6.49653in;height:7.63194in" />
 
-**Enter experiment name:** Choose whether to require entering an
+Enter experiment name: Choose whether to require entering an
 experiment name before starting for easier data traceability later.
 
 <img src="../../../../../../assets/products/video-extensometer/image22.png"
 style="width:4.27083in;height:3.66667in" />
 
-**True Value:** The software calculates absolute values by default. When
+True Value: The software calculates absolute values by default. When
 checked, the software outputs true values (must be enabled if the sample
 is in compression during the experiment).
 
-**Average Value:** When checked, the software calculates the average of
+Average Value: When checked, the software calculates the average of
 the longitudinal and transverse Virtual Extensometer values from both
 cameras.
 
-**Calculate Width:** Calculates width, used for determining the
+Calculate Width: Calculates width, used for determining the
 percentage reduction of area (In rebar experiments, because rebars have
 ribs, ensure the Longitudinal Rib is positioned at the center of the
 rebar in the camera image when clamping the sample, as shown in the
@@ -223,8 +222,8 @@ ends.
 style="width:6.43125in;height:3.39097in"
 alt="83e5cf1d06c6e0dd3e2de777b29afa02" />
 
-3.  **  
-    ****Experimental Operation Procedure**
+3.    
+    Experimental Operation Procedure
 
 After setting up the equipment and adjusting parameters:
 
@@ -259,8 +258,8 @@ calculating the percentage reduction of area). If data is received,
 proceed with the experiment on the testing machine. After the
 experiment, return to the extensometer software to stop the calculation.
 
-4.  **  
-    ****Software Notes**
+4.    
+    Software Notes
 
 4.0 If no image appears when opening the software, the camera port might
 be occupied by another software (close other software and restart the
@@ -285,8 +284,8 @@ percentage reduction of area function is not recommended, as attaching
 the Physical Extensometer may interfere with width recognition, causing
 abnormalities.
 
-**  
-5. Safe Operation and Equipment Maintenance**
+  
+5. Safe Operation and Equipment Maintenance
 
 5.1 If equipment accuracy issues arise, perform calibration according to
 the detailed StereoVision Extensometer operation manual.

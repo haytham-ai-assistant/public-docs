@@ -2,8 +2,7 @@
 
 ## 目录
 
-### 2D 视频引伸计
-- [详细版 2D 引伸计使用手册](./2dvideo-extensometer/chinese/detailed-2d-extensometer-user-manual-V1-2025.9.16.md)
+### 2. D 视频引伸计- [详细版 2D 引伸计使用手册](./2dvideo-extensometer/chinese/detailed-2d-extensometer-user-manual-V1-2025.9.16.md)
 - [简化版 2D 引伸计使用手册](./2dvideo-extensometer/chinese/simplified-2d-extensometer-user-manual-V1-2025.9.16.md)
 - [Visual Extensometer 2D Operation Instructions (Simplified Edition)](./2dvideo-extensometer/english/visual-extensometer-2doperation-instructionssimplified-edition-V1-2025.9.16.md)
 - [Visual Extensometer 2D Operation Instructions (Detailed Edition)](./2dvideo-extensometer/english/visual-extensometer-2doperation-instructionsdetailed-edition-V1-2025.9.16.md)

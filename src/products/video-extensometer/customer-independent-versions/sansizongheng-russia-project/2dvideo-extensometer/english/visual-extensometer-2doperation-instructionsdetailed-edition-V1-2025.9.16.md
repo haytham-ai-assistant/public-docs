@@ -1,4 +1,4 @@
-**2D 引伸计使用手册**
+2D 引伸计使用手册
 
 <img src="../../../../../../assets/products/video-extensometer/image2.jpeg"
 style="width:4.72014in;height:6.89375in"
@@ -42,18 +42,16 @@ alt="22e1cac1120ddc9e6bf232bea4f20af5" />
 
 # 一、设备介绍
 
-**2D 引伸计主要部件：设备主机、操作软件、加密狗、光源及光源控制器（2 种）、固定支架及云台、标定板、USB3.0 数据线。**
+2D 引伸计主要部件：设备主机、操作软件、加密狗、光源及光源控制器（2 种）、固定支架及云台、标定板、USB3.0 数据线。
 
-## 1.1 设备主机
-
+## 1.1. 设备主机
 主要包括固定支架和相机镜头两部分组成，通过底部不同的固定孔位可实现水平放置。
 
 <img src="../../../../../../assets/products/video-extensometer/image3.jpeg"
 style="width:8.36597in;height:4.70625in"
 alt="9382efe8c8c5d103e4ef9f7dbc4a929c" />
 
-## 1.2 光源
-
+## 1.2. 光源
 常温标准视野配置条光，测断面收缩率加配背光板。
 
 <img src="../../../../../../assets/products/video-extensometer/image4.jpeg"
@@ -62,15 +60,14 @@ alt="c1aaed804931dc69e1368bfa032298d" /><img src="../../../../../../assets/produ
 style="width:1.52639in;height:4.42431in"
 alt="c0ae8233fe76a8e70a31e863e4d5dc78" />
 
-## 1.3 固定支架 
-
+## 1.3. 固定支架
 使用三脚架、云台、双目横杠，将相机镜头固定好，调整双目设备整体位置，调整水平。
 
 <img src="../../../../../../assets/products/video-extensometer/image2.jpeg"
 style="width:4.72014in;height:6.89375in"
 alt="22e1cac1120ddc9e6bf232bea4f20af5" />
 
-**1.4 标定板**
+1.4 标定板
 
 用于相机标定校准精度。
 
@@ -169,10 +166,9 @@ alt="62c96b456d456c634ac1ba2eac054449" />
 
 # 三、软件安装
 
-**初次使用时，必须在试验机电脑上先进行软件安装。**
+初次使用时，必须在试验机电脑上先进行软件安装。
 
-## 3.1 相机驱动安装
-
+## 3.1. 相机驱动安装
 找到随机 U 盘资料以下相机驱动文件，解压点击安装。
 
 > <img
@@ -183,8 +179,7 @@ alt="62c96b456d456c634ac1ba2eac054449" />
 > src="./media/image22.png"
 > style="width:3.04444in;height:0.35764in" alt="1718705636399" />
 
-## 3.2 软件安装
-
+## 3.2. 软件安装
 1)  找到随机 U 盘资料以下文件（版本号以实际为准），解压点击安装。
 
 2)  安装完成后，电脑屏幕上显示相机驱动软件和引伸计软件。
@@ -192,8 +187,7 @@ alt="62c96b456d456c634ac1ba2eac054449" />
 <img src="../../../../../../assets/products/video-extensometer/image23.png"
 style="width:1.90625in;height:1.19792in" />
 
-## 3.3 软件安装验证
-
+## 3.3. 软件安装验证
 1)  点击电脑屏幕上相机驱动图标；
 
     <img src="../../../../../../assets/products/video-extensometer/image24.png"
@@ -211,8 +205,7 @@ style="width:8.8125in;height:7.89583in" />
 
 # 四、设备使用
 
-## 4.1 相机设置：
-
+## 4.1. 相机设置：
 打开相机驱动软件，并进入采集界面。
 
 1)  确认软件可以正确读取到相机；
@@ -268,10 +261,9 @@ style="width:8.8125in;height:7.89583in" />
     style="width:6.01806in;height:6.65in"
     alt="06bd416fdf9f50c36e21139ca73b9375" />
 
-## 4.2 标定：
-
-**使用 2D 软件在设备没有改变工作距离的情况下不需要重新标定，只有在改变工作距离的情况下才需要重新标定，标定流程如下：打开驱动软件**<img src="../../../../../../assets/products/video-extensometer/image33.png"
-style="width:0.68889in;height:0.79375in" />，**连接相机，右击把相机画面向右旋转 90 度，设置图片保存路径。**
+## 4.2. 标定：
+使用 2D 软件在设备没有改变工作距离的情况下不需要重新标定，只有在改变工作距离的情况下才需要重新标定，标定流程如下：打开驱动软件<img src="../../../../../../assets/products/video-extensometer/image33.png"
+style="width:0.68889in;height:0.79375in" />，连接相机，右击把相机画面向右旋转 90 度，设置图片保存路径。
 
 <img src="../../../../../../assets/products/video-extensometer/image34.png"
 style="width:7.21875in;height:3.97917in"
@@ -281,7 +273,7 @@ alt="f3fae0863b092c28e65535d9a34be366" />
 style="width:7.21875in;height:5.20833in"
 alt="ccf5981e0b160c58135a5b04d32424cd" />
 
-**标定板摆放与镜头前端平行且处于图像中心位置，标注位置点击一下即可采集一张图像，选中其中一个相机采集标定图，再对另外一个相机重复步骤即可。采集 14 张标定图片（满画幅标定）。**
+标定板摆放与镜头前端平行且处于图像中心位置，标注位置点击一下即可采集一张图像，选中其中一个相机采集标定图，再对另外一个相机重复步骤即可。采集 14 张标定图片（满画幅标定）。
 
 <img src="../../../../../../assets/products/video-extensometer/image36.png"
 style="width:7.21875in;height:3.13542in"
@@ -305,8 +297,7 @@ alt="02c0bd746dd618f25fc6ecfb0eb5b263" />
 <img src="../../../../../../assets/products/video-extensometer/image39.png"
 style="width:7.26042in;height:6.27083in" />
 
-## 4.3 软件参数功能介绍
-
+## 4.3. 软件参数功能介绍
 <img src="../../../../../../assets/products/video-extensometer/image40.png"
 style="width:3.52083in;height:5.20833in" />
 
@@ -403,8 +394,7 @@ style="width:7.1875in;height:7.53125in" />
 
 27. 计算结束后可手动导出计算结果数据
 
-## 4.4 软件操作流程
-
+## 4.4. 软件操作流程
 1）使用马克笔或手喷漆给试样制作特征点并将试样装夹在试验机上。
 
 <img src="../../../../../../assets/products/video-extensometer/image50.jpeg"
