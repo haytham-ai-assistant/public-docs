@@ -18,7 +18,7 @@
     - [双目 3D 应变仪使用手册](./products/vision-strain-gauge/stereo3d/vision-strain-gaugeuser-manual-V1-2024.12.md)
     - [客户独立版本索引](./products/vision-strain-gauge/customer-independent-versions/index.md)
     - [BLUE BOX 新 UI 界面使用手册](./products/vision-strain-gauge/monocular3d/blue-boxvision-strain-gaugeuser-manual-ui2024.8.md)
-    - [视觉应变仪教育版使用手册](./products/vision-strain-gauge-edu/manual.md)
+
   - [DVC 软件](./products/dvc-software/index.md)
     - [DVC 软件使用手册](./products/dvc-software/dvcsoftwaremanual-v1-2024.12.24.md)
 - [在线文档维护](./doc-maintain/index.md)
